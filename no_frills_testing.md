@@ -2,7 +2,7 @@
 
 ## or, Testing Framework? What Testing Framework?
 
-> by Alex Chaffee <br>
+> by Alex Chaffee <br />
 > Burlington Code Academy
 
 # The Best Tests

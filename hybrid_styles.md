@@ -38,7 +38,7 @@ The overlap between these three can be messy :-(
 |-------|-----------|--------------|--------------|
 |procedural | functions  | variables    | globals     |
 |functional | functions  | variables | nested scope      |
-|object-oriented | methods, <br> classes | variables         | properties, <br> static methods, <br> class definitions  |
+|object-oriented | methods, <br /> classes | variables         | properties, <br /> static methods, <br /> class definitions  |
 
 Note that:
 

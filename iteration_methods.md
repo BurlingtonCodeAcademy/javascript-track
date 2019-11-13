@@ -41,7 +41,7 @@ let names = ['Alice', 'Bob', 'Carol', 'Charlie', 'David']
 
 |this code... | and this code... |
 |---|---|
-|<pre><code class="javascript">for (let name of names) {<br>&nbsp;&nbsp;console.log(name.toUpperCase())<br>}<br></code></pre>|<pre><code class="javascript">let printUpper = function(name) { <br>&nbsp;&nbsp;console.log(name.toUpperCase())<br>}<br>names.forEach(printUpper)</code></pre>|
+|<pre><code class="javascript">for (let name of names) {<br />&nbsp;&nbsp;console.log(name.toUpperCase())<br />}<br /></code></pre>|<pre><code class="javascript">let printUpper = function(name) { <br />&nbsp;&nbsp;console.log(name.toUpperCase())<br />}<br />names.forEach(printUpper)</code></pre>|
 
 both print the same thing:
 

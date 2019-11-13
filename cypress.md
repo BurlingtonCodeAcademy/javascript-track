@@ -244,7 +244,7 @@ For example, given this HTML:
 |`.contains('New York')` | OK: ![one success](/images/cypress-ny.png) |
 |`.contains('York')` | OK: ![one success](/images/cypress-york.png) |
 |`.should('have.text', 'New York')` | Failure: ![YorkLos](/images/cypress-yorklos.png) |
-|`.then((element) => {` <br>&nbsp;&nbsp; `expect(element.text()).to.equal('New York')` <br> `});` | Failure: ![YorkLos](/images/cypress-yorklos-then.png) |
+|`.then((element) => {` <br />&nbsp;&nbsp; `expect(element.text()).to.equal('New York')` <br /> `});` | Failure: ![YorkLos](/images/cypress-yorklos-then.png) |
 
 # checking multiple matching elements with `each`
 
@@ -257,7 +257,7 @@ Fortunately, there is `each`
 | cypress code | result |
 |---|---|
 |`cy.get('h2')` | |
-| &nbsp;&nbsp;`.each((element) => {` <br>&nbsp;&nbsp;&nbsp;&nbsp; ` element.text()` <br>&nbsp;&nbsp;&nbsp;&nbsp; `.should.equal('New York');` <br> ` });` | One failure, one OK: ![one success, one failure](/images/cypress-ny-la.png) |
+| &nbsp;&nbsp;`.each((element) => {` <br />&nbsp;&nbsp;&nbsp;&nbsp; ` element.text()` <br />&nbsp;&nbsp;&nbsp;&nbsp; `.should.equal('New York');` <br /> ` });` | One failure, one OK: ![one success, one failure](/images/cypress-ny-la.png) |
 
 # project structure
 

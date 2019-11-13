@@ -96,7 +96,7 @@ Follow along online! Put a browser pointed at this site on one side of your scre
 * Docendo discimus ("By Teaching We Learn")
 * Promote yourself to TA
 
-> The best way to learn is to teach. <br>- [Latin proverb](https://en.wikipedia.org/wiki/Docendo_discimus)
+> The best way to learn is to teach. <br />- [Latin proverb](https://en.wikipedia.org/wiki/Docendo_discimus)
 
 # Technical requirements
 
