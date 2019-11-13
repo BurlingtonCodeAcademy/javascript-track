@@ -51,8 +51,6 @@ Note that:
 
 All of these styles exist to make code more readable / maintainable / debuggable *for humans*...
 
-<!VIDEO FZkjE1_0XtI>
-
 <https://www.youtube.com/watch?v=FZkjE1_0XtI>
 
 ...to the CPU, it's all just ones and zeros.

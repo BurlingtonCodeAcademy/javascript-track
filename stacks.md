@@ -24,7 +24,7 @@ Imagine a stack that starts with a single pancake ("1")
 
 ![stack](/images/stack.png) 
 
-<small>(image source: <https://en.wikipedia.org/wiki/Stack_(abstract_data_type)>, public domain)</small>
+> (image source: <https://en.wikipedia.org/wiki/Stack_(abstract_data_type)>, public domain)
 
 Try playing around with this [stack visualization tool](https://www.cs.usfca.edu/~galles/visualization/StackArray.html) (from David Galles at University of San Francisco) to get a feel for it.
 

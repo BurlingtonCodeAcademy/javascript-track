@@ -12,8 +12,6 @@ verb: to restructure software by applying a series of refactorings without chang
 
 # Winner Part 1
 
-<!VIDEO 4O8_bfCH8T4>
-
 Let's say you're writing a tic tac toe program.
 
 Before you write too much code you should have an idea for your **data structure**
@@ -169,8 +167,6 @@ function winner(board) {
 
 # Winner Part 2
 
-<!VIDEO boTiYozVs3k>
-
 We now have a bunch of functions that are identical
 except for three values.
 
@@ -207,8 +203,6 @@ And now that we've named the variables, we can extract *another* function...
 
 # Winner Part 3
 
-<!VIDEO WqSTBVgrxKY>
-
 So now that we have a generalized `checkCells` function,
 we want to start using that new `checkCells` function from all the other check functions.
 
@@ -239,8 +233,6 @@ After this, it's now quite clear that "right column" means "cells 2, 5, and 8" a
 One key way to make your code clean is to **give meaningful names** to your program's concepts, and to make those names clear in the code.
 
 # Winner Part 4
-
-<!VIDEO HAD1ogLhQLI>
 
 Let's go back and look at the original function.
 It's easier to understand but it's still kind of messy.
@@ -301,8 +293,6 @@ There's still a lot of duplication in this code, but it's important to note that
 
 # Winner Part 5
 
-<!VIDEO BjG4_YjYn-E>
-
 So now we've replaced some very specific, very duplicative code with a series of well-named function calls. We're finally able to see clearly what the original function was doing.
 
 Essentially, we made our code into [pseudocode](https://en.wikipedia.org/wiki/Pseudocode).
@@ -316,8 +306,6 @@ Another possibility is to delete the code and start from scratch. Now that we ha
 > ["Build one to throw away."](http://wiki.c2.com/?PlanToThrowOneAway) - Fred Brooks, the Mythical Man Month
 
 # Winner Part 6
-
-<!VIDEO 7AKgom_Qm6E>
 
 When I read this code, I can see a pattern:
 
@@ -380,8 +368,6 @@ function winner(board) {
 
 
 # Winner Part 7
-
-<!VIDEO -W6lJTBxsPo>
 
 We're almost done with this refactoring path. I can see the finish line right up ahead!
 

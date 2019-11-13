@@ -70,9 +70,9 @@ describe('Post Resource', function() {
 ```
 
 1. Visit the page at `/posts/new`.
-1. Find the \<input> with class `post-title`.
+1. Find the `<input>` with class `post-title`.
 1. Type "My First Post" into it.
-1. Find the \<input> with class `post-body`.
+1. Find the `<input>` with class `post-body`.
 1. Type "Hello, world!" into it.
 1. Find the element containing the text "Submit".
 1. Click it.
@@ -127,7 +127,7 @@ DOM element collection wrappers that support method chaining.
 * `.clear()` - Clear the value of an input or textarea
 * `.check()` - Check checkbox(es) or radio button(s)
 * `.uncheck()` - Uncheck checkbox(es)
-* `.select()` - Select an \<option> within a \<select>
+* `.select()` - Select an `<option>` within a `<select>`
 * `.focus()` - Focus on a DOM element
 * `.blur()` - Make a DOM element lose focus
 

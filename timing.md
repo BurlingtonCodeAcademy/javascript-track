@@ -145,7 +145,9 @@ Now run the function several times in a row. What do you notice?
 
 <details>
 <summary>Click Here for Solution</summary>
-<pre><code class='javascript'>
+<div>
+
+```javascript
 function waitASecond() {
   let start = Date.now();
   setTimeout(
@@ -155,7 +157,9 @@ function waitASecond() {
     },
   1000)
 }
-</code></pre>
+```
+
+</div>
 </details>
 
 # setInterval
@@ -184,7 +188,7 @@ function countDownFrom(num) {
 countDownFrom(10);
 ```
 
-https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval
+<https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval>
 
 # setInterval or setTimeout?
 
