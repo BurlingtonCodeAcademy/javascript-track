@@ -2,7 +2,7 @@
 
 *recursion* is when a function *calls itself*
 
-![ouroboros](/images/ouroboros.jpg)
+![ouroboros](https://res.cloudinary.com/btvca/image/upload/v1574445196/curriculum/ouroboros_dj6pam.jpg)
 
 (like Ouroboros, a mythical serpent who eats its own tail)
 
@@ -80,7 +80,7 @@ Fill out the cells of the following table for the call `countdown(5)`:
 
 In addition to the base case, a recursive function needs to define at least one other case; this case *wraps around* the base case like a Russian doll.
 
-![matryoshka](/images/matryoshka.jpg)
+![matryoshka](https://res.cloudinary.com/btvca/image/upload/v1574445189/curriculum/matryoshka_eokmru.jpg)
 
 You can think of a recursive function as starting with a large problem, and gradually reducing the problem until it reaches the base case.
 

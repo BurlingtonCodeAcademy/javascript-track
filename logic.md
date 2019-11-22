@@ -55,7 +55,7 @@ Wait a second. "Truthy?"
 
 # What is truthiness?
 
-![Truthiness](/images/truthiness.png)
+![Truthiness](https://res.cloudinary.com/btvca/image/upload/v1574445211/curriculum/truthiness_jhdubk.png)
 
 * in the Colbert Report, [truthiness](https://en.wikipedia.org/wiki/Truthiness) means things we *feel* to be true, even though we know they're probably not
 

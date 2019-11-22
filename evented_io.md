@@ -127,7 +127,7 @@ Yes, nested callbacks are confusing. This is an example of *callback hell*.
 
 # Callback Hell
 
-![yo dawg callbacks](/images/yo-dawg-callbacks.png)
+![yo dawg callbacks](https://res.cloudinary.com/btvca/image/upload/v1574445215/curriculum/yo-dawg-callbacks_i2g7rm.png)
 
 # Async-Await and Promises
 

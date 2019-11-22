@@ -41,7 +41,7 @@ Either of the above lines (in an HTML JS app) will allow any line in the entire 
 
 > scope is a one-way mirror -- inner scopes can see out, but outer scopes cannot see in
 
-![one way mirror functions](/images/one-way-mirror.gif)
+![one way mirror functions](https://res.cloudinary.com/btvca/image/upload/v1574445224/curriculum/one-way-mirror_rudn2p.gif)
 
 Mr. Bean -- in the interrogation room scope -- can't see the cops in the observation room scope.
 

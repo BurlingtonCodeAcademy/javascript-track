@@ -96,11 +96,11 @@ assert(fancyText('state of the union') === 'State of the Union');
 
 # Self-Testing Web Sites
 
-![screenshot](/images/fancy-screenshot.png)
+![screenshot](https://res.cloudinary.com/btvca/image/upload/v1574445175/curriculum/fancy-screenshot_vbwu0e.png)
 
 # TAP
 
-![tap dancing shoes](/images/tap.gif)
+![tap dancing shoes](https://res.cloudinary.com/btvca/image/upload/v1574445206/curriculum/tap_aqw5b0.gif)
 
 * TAP is a test output format
   * *Test Anywhere Protocol*
@@ -113,7 +113,7 @@ assert(fancyText('state of the union') === 'State of the Union');
 
 # Tapped Out
 
-![fancy screenshot with tap](/images/fancy-screenshot-tap.png)
+![fancy screenshot with tap](https://res.cloudinary.com/btvca/image/upload/v1574445174/curriculum/fancy-screenshot-tap_y6ngaw.png)
 
 # Tapped Source: fancy.js
 

@@ -101,7 +101,7 @@ Note that only `area` and `circumference` are exposed via a pointer to the circl
 
 Expanded:
 
-![IIFE Example](/images/iife-breakdown.png)
+![IIFE Example](https://res.cloudinary.com/btvca/image/upload/v1574445185/curriculum/iife-breakdown_oh6r9e.png)
 
 The trick is, when you *invoke* the function, you generate a *new scope* for that invocation's closure.
 

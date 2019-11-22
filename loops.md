@@ -36,7 +36,7 @@ This is called an *infinite loop*.
 
 # One Infinite Loop
 
-![One Infinite Loop](/images/one-infinite-loop.jpg)
+![One Infinite Loop](https://res.cloudinary.com/btvca/image/upload/v1574445194/curriculum/one-infinite-loop_eful1h.jpg)
 
 *Fun Fact:* The address of Apple HQ is
 

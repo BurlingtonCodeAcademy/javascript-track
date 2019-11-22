@@ -132,7 +132,7 @@ In FireFox:
 
 # Step 2a breakdown
 
-![chrome debugger example](/images/chrome-debugger.png)
+![chrome debugger example](https://res.cloudinary.com/btvca/image/upload/v1574445168/curriculum/chrome-debugger_y1uc1z.png)
 
 # Step 2b: Add Breakpoints in FireFox
 
@@ -144,7 +144,7 @@ In FireFox:
 
 # Step 2b breakdown
 
-![firefox debugger example](/images/firefox-debugger.png)
+![firefox debugger example](https://res.cloudinary.com/btvca/image/upload/v1574445177/curriculum/firefox-debugger_puni46.png)
 
 # Step 3: Run your Code
 
@@ -170,7 +170,7 @@ If you click the `Debug` icon on the left side of your editor it will open a box
 
 # VSCode Debugger Example
 
-![vscode debugger](/images/vscode-debugger.png)
+![vscode debugger](https://res.cloudinary.com/btvca/image/upload/v1574445214/curriculum/vscode-debugger_lgz2dw.png)
 
 # But Wait! There's More!
 The VSCode debugger *also* allows you to track the value of variables or expressions through the execution of your code. To add a variable to watch:
