@@ -163,7 +163,7 @@ Note that:
 * What happens if you type your name in all lowercase?
 * Make the program capitalize your name for you even if you forget.
 
-**Hint**: remember `slice` from the [Strings lesson](/lessons/javascript-track/strings#/anchor/slicing_and_dicing)?
+**Hint**: remember `slice` from the [Strings lesson](/lessons/javascript-track/strings)?
 
 # LAB: YELL YOUR NAME
 
