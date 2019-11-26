@@ -259,7 +259,7 @@ for (var i=0; i < 8; i++) {
 
 # `for..of`
 
-The `for..of` loop was added to JavaScript fairly recently. It loops over an [array](./arrays) and hides the messy details of initializing and incrementing a counter:
+The `for..of` loop was added to JavaScript fairly recently. It loops over an [array](/lessons/javascript-track/arrays) and hides the messy details of initializing and incrementing a counter:
 
 ```javascript
 const lineNumbers = [1, 2, 3, 4, 5, 6, 7, 8];

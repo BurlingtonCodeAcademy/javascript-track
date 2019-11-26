@@ -139,7 +139,7 @@ Like this:
 ```
 
  * sadly, this doesn't work in Windows PowerShell
- * more details at our [unicode lesson](/lessons/unicode)
+ * more details at our [unicode lesson](/lessons/javascript-track/unicode)
 
 # Comparing Strings
 

@@ -163,7 +163,7 @@ Note that:
 * What happens if you type your name in all lowercase?
 * Make the program capitalize your name for you even if you forget.
 
-**Hint**: remember `slice` from the [Strings lesson](/lessons/strings#/anchor/slicing_and_dicing)?
+**Hint**: remember `slice` from the [Strings lesson](/lessons/javascript-track/strings#/anchor/slicing_and_dicing)?
 
 # LAB: YELL YOUR NAME
 
@@ -325,4 +325,4 @@ You are now officially a coder. HIGH FIVE!
 
 You may now start on the [Guess the Number](/projects/guess) project.
 
-(You will probably also need to learn about [logic](/lessons/logic) and [loops](/lessons/loops) to get it working, so don't be afraid to read ahead and to ask for help.)
+(You will probably also need to learn about [logic](/lessons/javascript-track/logic) and [loops](/lessons/javascript-track/loops) to get it working, so don't be afraid to read ahead and to ask for help.)

@@ -20,7 +20,7 @@ This value is also known as *unix time* or *epoch time*, and is a standard way o
 
 As a really quick exercise, calculate the number of months since 1970.
 
-> Hint: remember the [Playing With Numbers](/lessons/numbers#anchor/lab_playing_with_numbers) lab?
+> Hint: remember the Playing With Numbers lab?
 
 # Timers and Callbacks
 

@@ -315,7 +315,7 @@ When I read this code, I can see a pattern:
 
 Essentially, we are walking through a series of win conditions, and bailing out when we find one that's true.
 
-That sounds a lot like an [iteration method](/lessons/javascript/iteration_methods) to me. Specifically "find".. but I don't think "find" will quite work here...
+That sounds a lot like an [iteration method](/lessons/javascript-track/iteration_methods) to me. Specifically "find".. but I don't think "find" will quite work here...
 
 So let's just put all these functions in an array and iterate through that array.
 

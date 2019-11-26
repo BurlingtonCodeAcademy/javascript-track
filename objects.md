@@ -156,7 +156,7 @@ let alice = {
 
 Given the above, the value of `alice.homeAddress.zipCode` is `'05401'`
 
-> Note: The above shows the essence of [JSON](/lessons/json):
+> Note: The above shows the essence of [JSON](/lessons/javascript-track/json):
 > a syntax for representing data structures containing primitive values,
 > including nested objects and arrays.
 
@@ -417,7 +417,7 @@ console.log("Your order total is $" + orderPrice)
 
 # Object Instance Methods
 
-Here's a taste of [object instance methods](./methods).
+Here's a taste of [object instance methods](/lessons/javascript-track/methods).
 
 A method is a *function* attached to an *object* as a *property*.
 

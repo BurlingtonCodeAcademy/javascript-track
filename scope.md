@@ -250,7 +250,7 @@ this is a contrived example, but the idea is that
 
 # Why Nested Scopes? 3
 
-* private state encapsulation with [IIFE](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)'s (this is **very tricky**; for more detail, see the [encapsulation](/lessons/encapsulation) lesson)
+* private state encapsulation with [IIFE](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)'s (this is **very tricky**; for more detail, see the [encapsulation](/lessons/javascript-track/encapsulation) lesson)
 
 ```js
 let count = (function() {

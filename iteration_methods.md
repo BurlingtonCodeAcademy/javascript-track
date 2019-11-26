@@ -187,7 +187,7 @@ It's called "map" because in a mathematical sense, it defines a *mapping* from o
 
 # Lab: Titleize with Map
 
-Remember the [capitalize function](./functions#anchor/capitalize)? It capitalizes the first letter of a string and makes the whole rest of the string lowercase.
+Remember the [capitalize function](/lessons/javascript-track/functions#anchor/capitalize)? It capitalizes the first letter of a string and makes the whole rest of the string lowercase.
 
 ```javascript
 function capitalize(word) {

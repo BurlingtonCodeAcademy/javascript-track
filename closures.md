@@ -78,7 +78,7 @@ function printGrid(grid) {
 
 # Why? 4
 
-* encapsulation (this is tricky; for more detail, see the [encapsulation](/lessons/encapsulation) lesson)
+* encapsulation (this is tricky; for more detail, see the [encapsulation](/lessons/javascript-track/encapsulation) lesson)
 
 ```js
 let count = (function() {
